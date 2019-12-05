@@ -1,0 +1,3 @@
+[submodule "projects/subapp1"]
+	path = projects/subapp1
+	url = https://github.com/dresot/subapp1.git
